@@ -1,10 +1,10 @@
 Alzheimer's Disease Classifier
 A Python AI project that classifies the severity of Alzheimer’s disease from MRI images using a CNN and SHAP for explainable predictions.  
 The project predicts four levels:  
-🟢 MildDemented – Beginner  
-🟡 ModerateDemented – Amateur  
-🟠 NonDemented – Pro / Healthy  
-🔴 VeryMildDemented – High  
+🟢 VeryMildDemented – Very mild cognitive decline  
+🟡 MildDemented – Mild cognitive decline  
+🟠 ModerateDemented – Moderate cognitive decline  
+🔴 NonDemented – Healthy
 
 💡 Features
 - CNN architecture with 2 convolutional blocks + global average pooling  
@@ -15,7 +15,8 @@ The project predicts four levels:
 
 🧪 How to Run
 1. Clone repo:  
-git clone https://github.com/saif-emara/your-repo-name.git  
+git clone https://github.com/saif-emara/AlzheimersClassifier.git
+cd AlzheimersClassifier
 cd your-repo-name  
 2. Install dependencies:  
 pip install -r requirements.txt  

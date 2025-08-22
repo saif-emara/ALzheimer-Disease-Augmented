@@ -15,7 +15,8 @@ The project predicts four levels:
 
 🧪 How to Run
 1. Clone repo:  
-git clone https://github.com/saif-emara/AlzheimersClassifier.git
+git clone https://github.com/saif-emara/ALzheimer-Disease-Augmented.git
+cd ALzheimer-Disease-Augmented
 cd AlzheimersClassifier
 cd your-repo-name  
 2. Install dependencies:  
